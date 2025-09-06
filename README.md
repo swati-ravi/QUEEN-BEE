@@ -32,8 +32,8 @@ QUEEN-BEE is intended for scientific use only and comes with **ABSOLUTELY NO WAR
 Clone the repository and install dependencies:  
 
 ```bash
-git clone https://github.com/
-cd queen-bee
+git clone https://github.com/swati-ravi/QUEEN-BEE
+cd QUEEN-BEE
 pip install -r requirements.txt
 ```
 
@@ -141,4 +141,14 @@ QUEEN-BEE comes with ABSOLUTELY NO WARRANTY.
 ---
 
 ## Contact
-For questions, please cont
+For questions, please contact
+
+swatir@mit.edu(mailto:swatir@mit.edu)
+
+---
+
+## Citation  
+
+If you use QUEEN-BEE in your research, please cite:  
+
+Ravi, S., Ng, M., Marshall, H., and Gnarini A., (2025). *What’s the Buzz About GX 13+1? Constraining Coronal Geometry with QUEEN-BEE: A Bayesian Nested Sampling Framework for X-ray Polarization Rotation Analysis.* 
