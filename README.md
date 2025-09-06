@@ -137,6 +137,7 @@ Licensed under the MIT License (see LICENSE file for details).
 ---
 
 ## Disclaimer
+
 QUEEN-BEE comes with ABSOLUTELY NO WARRANTY.  
 ---
 
