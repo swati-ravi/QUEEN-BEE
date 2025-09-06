@@ -27,8 +27,13 @@ WELCOME_BANNER = f"""
   Version: {__version__}
   Authors: Swati Ravi, Mason Ng, and Herman Marshall
 ------------------------------------------------------------
+  Copyright (C) 2025, the QUEEN-BEE team.
+
+  License: This is free research software provided as-is for scientific use.
+  You are welcome to redistribute it under certain conditions.
+  Licensed under the MIT License (see LICENSE file for details).
+
   Disclaimer: QUEEN-BEE comes with ABSOLUTELY NO WARRANTY.
-    This is research software provided as-is for scientific use.
 
   Contact: swatir@mit.edu
 ============================================================
