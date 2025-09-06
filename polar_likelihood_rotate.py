@@ -67,7 +67,7 @@ def polar_likelihood_rotate(param,ci,si,mu,t,tref,area_ratio,count_bg):
     n0_est = len(ci) - area_ratio * count_bg
     n0_input = n0_est * n0_est_ratio
     kwargs = {'q': q, 'u': u, 'ci': ci_rot, 'si': si_rot, 'mu': mu, 'area_ratio': area_ratio, 'count_bg': count_bg}
-    muller_result = utils.mullers_method(func=likelihood_bg_weights, xi=n0_input, double=True, itmax=1000, stop=0, tol=0.01/n0_est, **kwargs)
+    muller_result = utils_2.mullers_method(func=likelihood_bg_weights, xi=n0_input, double=True, itmax=1000, stop=0, tol=0.01/n0_est, **kwargs)
     n0_solution = muller_result.root if muller_result.converged else None 
 
     ### form the likelihood
@@ -157,7 +157,7 @@ def polar_likelihood_rotate_polarbg(param,ci,si,cj,sj,mu,mu_bg,t,tref,area_ratio
     n0_est = len(ci) - area_ratio * count_bg
     n0_input = n0_est * n0_est_ratio
     kwargs = {'q': q, 'u': u, 'qb': qb, 'ub':ub, 'ci': ci_rot, 'si': si_rot, 'mu': mu, 'area_ratio': area_ratio, 'count_bg': count_bg}
-    muller_result = utils.mullers_method(func=likelihood_polarbg_weights, xi=n0_input, double=True, itmax=1000, stop=0, tol=0.01/n0_est, **kwargs)
+    muller_result = utils_2.mullers_method(func=likelihood_polarbg_weights, xi=n0_input, double=True, itmax=1000, stop=0, tol=0.01/n0_est, **kwargs)
     n0_solution = muller_result.root if muller_result.converged else None 
 
     ### form the likelihood
