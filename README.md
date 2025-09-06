@@ -137,14 +137,13 @@ Licensed under the MIT License (see LICENSE file for details).
 ---
 
 ## Disclaimer
-
 QUEEN-BEE comes with ABSOLUTELY NO WARRANTY.  
 ---
 
 ## Contact
 For questions, please contact
 
-swatir@mit.edu(mailto:swatir@mit.edu)
+[swatir@mit.edu](mailto:swatir@mit.edu)
 
 ---
 
