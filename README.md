@@ -1,7 +1,7 @@
 # QUEEN-BEE  
 **Q-U Event-by-Event Nested sampling for Bayesian EVPA Evolution** 
 
-Version: `3.1`  
+Version: `3.2`  
 Authors: Swati Ravi, Mason Ng, Herman Marshall  
 
 ---

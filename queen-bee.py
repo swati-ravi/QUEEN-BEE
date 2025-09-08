@@ -19,7 +19,7 @@ import matplotlib.pyplot as plt
 from utils_2 import PolarLikelihoodBG, PolarLikelihoodRotate, PolarLikelihood_PolarBG, PolarLikelihoodRotate_PolarBG
 import argparse
 
-__version__ = "3.1"  
+__version__ = "3.2"  
 
 WELCOME_BANNER = f"""
 ============================================================
