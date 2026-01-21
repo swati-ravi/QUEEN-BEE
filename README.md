@@ -152,4 +152,6 @@ For questions, please contact
 
 If you use QUEEN-BEE in your research, please cite:  
 
-Ravi, S., Ng, M., Marshall, H., and Gnarini A., (2025). *What’s the Buzz About GX 13+1? Constraining Coronal Geometry with QUEEN-BEE: A Bayesian Nested Sampling Framework for X-ray Polarization Rotation Analysis.* 
+Ravi, S., Ng, M., Marshall, H., and Gnarini A., *What’s the Buzz About GX 13+1? Constraining Coronal Geometry with QUEEN-BEE: A Bayesian Nested Sampling Framework for X-ray Polarization Rotation Analysis.* ApJ, 2026. [`10.3847/1538-4357/ae21bd`](https://ui.adsabs.harvard.edu/abs/2026ApJ...997...60R/abstract)
+
+Ravi, S., Ng, M., Marshall, H., (2025) *QUEEN-BEE* [`10.5281/zenodo.17068831`](https://ui.adsabs.harvard.edu/abs/2025zndo..17068831S/abstract)
